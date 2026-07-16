@@ -1,0 +1,13 @@
+Automatización con n8n o Telegram:
+
+Evento:
+Cuando se registra una nueva causa o se alcanza una cantidad determinada de apoyos.
+
+Acción:
+El sistema envía una notificación automática mediante Telegram.
+
+Mensaje:
+"Nueva actividad registrada en la plataforma comunitaria. Revisar el sistema para más información."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar cédulas, teléfonos, direcciones, contraseñas, tokens, claves de API ni datos personales sensibles.
